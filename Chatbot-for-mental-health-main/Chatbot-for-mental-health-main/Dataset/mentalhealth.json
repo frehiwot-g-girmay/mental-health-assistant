@@ -11,8 +11,8 @@
  	 "context": [""]    
 	},
         {"tag": "what_causes",         
-	 "patterns": ["What causes mental illness?","What leads to mental illness?","how does one get mentally ill?"],         
-	 "responses": ["Symptoms of mental health disorders vary depending on the type and severity of the condition."],       
+	 "patterns": ["ጠንቂ ሕማም ኣእምሮ እንታይ እዩ?","ናብ ሕማም ኣእምሮ ዝመርሕ እንታይ?","ከመይ ኢሉ ሓደ ሰብ ናይ ኣእምሮ ሕማም ይሓምም?"],         
+	 "responses": ["ምልክታት ጸገማት ጥዕና ኣእምሮ ኣዝዩ ዝተፈላለየ ኮይኑ፡ ንስምዒት፡ ኣተሓሳስባን ባህርያትን ሓደ ሰብ ክጸልዎ ይኽእል። ልሙዳት ምልክታት ቀጻሊ ጓሂ፡ ጭንቀት፡ ለውጢ ድቃስ ወይ ሸውሃት፡ ምትኳር ምጽጋምን ካብ ማሕበራዊ ንጥፈታት ምውጻእን ይርከብዎም። ኣብ ገለ ገለ ኣጋጣሚታት፡ ምልክታት ከም ሕማም ርእሲ ወይ ቃንዛ ከብዲ ዝኣመሰሉ ኣካላዊ ጸገማት ኮይኖም’ውን ክግለጹ ይኽእሉ።"],       
 	 "context": [""]        
 	},
 	
