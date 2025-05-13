@@ -1,7 +1,7 @@
 {"intents": [
         {"tag": "definition",
-         "patterns": ["What does it mean to have a mental illness?", "What is mental health illness","Describe mental health illness"],
-         "responses": ["Mental illnesses are health conditions that disrupt a person's thoughts, emotions, relationships, and daily functioning."],
+         "patterns": ["ሕማም ኣእምሮ ምህላው እንታይ ማለት እዩ?", "ሕማም ጥዕና ኣእምሮ እንታይ እዩ","Describe mentሕማም ጥዕና ኣእምሮ ግለጽ"],
+         "responses": ["ሕማማት ኣእምሮ፡ ንሓሳብ ሰብ፡ ስምዒታቱ፡ ዝምድናኡን መዓልታዊ ኣሰራርሓኡን ዝዘርጉ ኩነታት ጥዕና እዮም።"],
          "context": [""]
         },
 
