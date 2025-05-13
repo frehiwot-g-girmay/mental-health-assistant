@@ -1,22 +1,22 @@
 {"intents": [
-        {"tag": "definition",
+        {"tag": "ትርጉም",
          "patterns": ["ሕማም ኣእምሮ ምህላው እንታይ ማለት እዩ?", "ሕማም ጥዕና ኣእምሮ እንታይ እዩ","Describe mentሕማም ጥዕና ኣእምሮ ግለጽ"],
          "responses": ["ሕማማት ኣእምሮ፡ ንሓሳብ ሰብ፡ ስምዒታቱ፡ ዝምድናኡን መዓልታዊ ኣሰራርሓኡን ዝዘርጉ ኩነታት ጥዕና እዮም።"],
          "context": [""]
         },
 
-	{"tag": "affects_whom",     
+	{"tag": "ንመን_ይጸልዎ",     
 	 "patterns": ["ሕማም ኣእምሮ ንመን ይጸልዎ?", "ብሕማም ኣእምሮ መን ይጥቃዕ"],        
 	 "responses": ["ኣብ ኢትዮጵያ ርኡይ ክፋል ህዝቢ ጉዳይ ጥዕና ኣእምሮ የጋጥሞ። መጽናዕትታት ከም ዝሕብርዎ፡ ኣስታት 18% ካብ ዓበይትን 15% ህጻናትን ናይ ኣእምሮ ጸገማት ከም ዘለዎምን፡ ብፍላይ ድማ ናይ ጭንቀትን ጭንቀትን ጸገማት ከም ዝሰፍሐ ይሕብሩ። ፀገም ጥዕና ኣእምሮ እናዓበየ ዝኸይድ ዘሎ ስክፍታ ህዝባዊ ጥዕና ኮይኑ፡ ብፍላይ ካብ ኣዲስ ኣበባ ወጻኢ ኣገልግሎት ጥዕና ኣእምሮ ምርካብ ድሩት እዩ።"],       
  	 "context": [""]    
 	},
-        {"tag": "what_causes",         
+        {"tag": "ቀንዲ_መበገሲ",         
 	 "patterns": ["ጠንቂ ሕማም ኣእምሮ እንታይ እዩ?","ናብ ሕማም ኣእምሮ ዝመርሕ እንታይ?","ከመይ ኢሉ ሓደ ሰብ ናይ ኣእምሮ ሕማም ይሓምም?"],         
 	 "responses": ["ምልክታት ጸገማት ጥዕና ኣእምሮ ኣዝዩ ዝተፈላለየ ኮይኑ፡ ንስምዒት፡ ኣተሓሳስባን ባህርያትን ሓደ ሰብ ክጸልዎ ይኽእል። ልሙዳት ምልክታት ቀጻሊ ጓሂ፡ ጭንቀት፡ ለውጢ ድቃስ ወይ ሸውሃት፡ ምትኳር ምጽጋምን ካብ ማሕበራዊ ንጥፈታት ምውጻእን ይርከብዎም። ኣብ ገለ ገለ ኣጋጣሚታት፡ ምልክታት ከም ሕማም ርእሲ ወይ ቃንዛ ከብዲ ዝኣመሰሉ ኣካላዊ ጸገማት ኮይኖም’ውን ክግለጹ ይኽእሉ።"],       
 	 "context": [""]        
 	},
 	
-       {"tag": "recover",        
+       {"tag": "ካብ_ሕማም_ምድሓን",        
 	 "patterns": ["Can people with mental illness recover?","Is it possible to recover from mental illness"],        
 	 "responses": ["When healing from mental illness, early identification and treatment are of vital importance. Based on the nature of the illness, there are a range of effective treatments available. For any type of treatment, it is essential that the person affected is proactive and fully engaged in their own recovery process. Many people with mental illnesses who are diagnosed and treated respond well, although some might experience a return of symptoms. Even in such cases, with careful monitoring and management of the disorder, it is still quite possible to live a fulfilled and productive life."],       
 	 "context": [""]        
