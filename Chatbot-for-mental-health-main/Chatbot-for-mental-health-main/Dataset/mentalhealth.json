@@ -17,8 +17,8 @@
 	},
 	
        {"tag": "ካብ_ሕማም_ምድሓን",        
-	 "patterns": ["Can people with mental illness recover?","Is it possible to recover from mental illness"],        
-	 "responses": ["When healing from mental illness, early identification and treatment are of vital importance. Based on the nature of the illness, there are a range of effective treatments available. For any type of treatment, it is essential that the person affected is proactive and fully engaged in their own recovery process. Many people with mental illnesses who are diagnosed and treated respond well, although some might experience a return of symptoms. Even in such cases, with careful monitoring and management of the disorder, it is still quite possible to live a fulfilled and productive life."],       
+	 "patterns": ["ሕማም ኣእምሮ ዘለዎም ሰባት ክሓውዩ ይኽእሉ ድዮም?","ካብ ሕማም ኣእምሮ ምሕዋይ ይከኣል ድዩ"],        
+	 "responses": ["ካብ ሕማም ኣእምሮ ክትሓዊ ከለኻ፡ ብኣግኡ ምልላይን ሕክምናን ኣዝዩ ኣገዳሲ እዩ። ኣብ ባህሪ ናይቲ ሕማም ተመርኲስካ ዝተፈላለዩ ውጽኢታውያን ሕክምናታት ኣለዉ። ንዝኾነ ዓይነት ሕክምና፡ እቲ ዝተጠቕዐ ሰብ ንጡፍ ክኸውንን ኣብ ናይ ገዛእ ርእሱ መስርሕ ሕውየት ምሉእ ብምሉእ ክዋፈርን ኣገዳሲ እዩ። ብዙሓት ሕማም ኣእምሮ ዘለዎም ሰባት ዝፍለጡን ዝሕከሙን ጽቡቕ ምላሽ ይህቡ፣ ዋላ እኳ ገሊኦም ምልክታት ክምለሱ ይኽእሉ እንተኾኑ። ኣብ ከምዚ ዝኣመሰለ ኩነታት እውን እንተኾነ፡ ብጥንቃቐ ምክትታልን ምሕደራን ናይቲ ጸገም፡ ገና ዕግበት ዘለዎን ኣፍራይን ህይወት ምንባር ምሉእ ብምሉእ ይከኣል እዩ።"],       
 	 "context": [""]        
 	},
 	{"tag": "steps",       
