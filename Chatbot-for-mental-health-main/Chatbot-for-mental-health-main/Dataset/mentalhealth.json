@@ -6,8 +6,8 @@
         },
 
 	{"tag": "affects_whom",     
-	 "patterns": ["Who does mental illness affect?", "Who is affected by mentall illness"],        
-	 "responses": ["It is estimated that mental illness affects 1 in 5 adults in America, and that 1 in 24 adults have a serious mental illness."],       
+	 "patterns": ["ሕማም ኣእምሮ ንመን ይጸልዎ?", "ብሕማም ኣእምሮ መን ይጥቃዕ"],        
+	 "responses": ["ኣብ ኢትዮጵያ ርኡይ ክፋል ህዝቢ ጉዳይ ጥዕና ኣእምሮ የጋጥሞ። መጽናዕትታት ከም ዝሕብርዎ፡ ኣስታት 18% ካብ ዓበይትን 15% ህጻናትን ናይ ኣእምሮ ጸገማት ከም ዘለዎምን፡ ብፍላይ ድማ ናይ ጭንቀትን ጭንቀትን ጸገማት ከም ዝሰፍሐ ይሕብሩ። ፀገም ጥዕና ኣእምሮ እናዓበየ ዝኸይድ ዘሎ ስክፍታ ህዝባዊ ጥዕና ኮይኑ፡ ብፍላይ ካብ ኣዲስ ኣበባ ወጻኢ ኣገልግሎት ጥዕና ኣእምሮ ምርካብ ድሩት እዩ።"],       
  	 "context": [""]    
 	},
         {"tag": "what_causes",         
