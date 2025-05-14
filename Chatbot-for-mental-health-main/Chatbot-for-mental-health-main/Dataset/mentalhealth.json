@@ -21,34 +21,34 @@
 	 "responses": ["ካብ ሕማም ኣእምሮ ክትሓዊ ከለኻ፡ ብኣግኡ ምልላይን ሕክምናን ኣዝዩ ኣገዳሲ እዩ። ኣብ ባህሪ ናይቲ ሕማም ተመርኲስካ ዝተፈላለዩ ውጽኢታውያን ሕክምናታት ኣለዉ። ንዝኾነ ዓይነት ሕክምና፡ እቲ ዝተጠቕዐ ሰብ ንጡፍ ክኸውንን ኣብ ናይ ገዛእ ርእሱ መስርሕ ሕውየት ምሉእ ብምሉእ ክዋፈርን ኣገዳሲ እዩ። ብዙሓት ሕማም ኣእምሮ ዘለዎም ሰባት ዝፍለጡን ዝሕከሙን ጽቡቕ ምላሽ ይህቡ፣ ዋላ እኳ ገሊኦም ምልክታት ክምለሱ ይኽእሉ እንተኾኑ። ኣብ ከምዚ ዝኣመሰለ ኩነታት እውን እንተኾነ፡ ብጥንቃቐ ምክትታልን ምሕደራን ናይቲ ጸገም፡ ገና ዕግበት ዘለዎን ኣፍራይን ህይወት ምንባር ምሉእ ብምሉእ ይከኣል እዩ።"],       
 	 "context": [""]        
 	},
-	{"tag": "ቕድመ_ስዓብ ",       
-	 "patterns": ["ከምዚ ዓይነት ምልክታት ዘለዎ ዝመስል ሰብ እፈልጥ እየ?","ምልክታት እንተጋጢሙ ክኽተሉ ዘለዎም ስጉምትታት እንታይ እዮም"],        
+	{"tag": "አድላዩ_ ስጉምትታት ",       
+	 "patterns": ["ኸምዚ ዓይነት ምልክታት ዘለዎ ዝመስል ሰብ እፈልጥ እየ?","ምልክታት እንተጋጢሙ ክኽተሉ ዘለዎም ስጉምትታት እንታይ እዮም"],        
 	 "responses": ["እዚ መርበብ ሓበሬታ እዚ ንሞያዊ ምኽሪ ክትክእ ዘይክእል እኳ እንተኾነ፡ ምልክታት ሕማም ዘለዎም ሰባት ምስ ፈተውቶምን ኣባላት ስድራቤቶምን ክዛረቡን ካብ በዓል ሞያ ጥዕና ኣእምሮ ምኽሪ ክደልዩን ንላቦ። ኩነታት ጥዕና ኣእምሮ ብዝቐልጠፈ ተለልዩ ብዝተሓከመ መጠን ቀልጢፎም ናብ መንገዲ ሕውየት ክኣትዉ ይኽእሉ።ጸገም ዘለዎ ሰብ ትፈልጥ እንተኾንካ እቲ ጉዳይ ባዕሉ ክፍታሕ እዩ ኢልካ ኣይትሕሰብ። ብዛዕባኦም ከም እትግደሰሎምን፡ ንኽሓውዩ ዝሕግዙ ኣማራጺታት ሕክምና ከም ዘለዉን ኣፍልጦም። ዓርክኻ ወይ ኣባል ስድራቤትካ ምልክታት ናይ ኣእምሮ ጥዕና ኩነታት የጋጥሞ ኣሎ ኢልካ እንተሓሲብካ ምስ በዓል ሞያ ጥዕና ኣእምሮ ወይ ኣማኻሪ ተዘራረብ። እቲ ዝተጎድአ ፍቑር ሰብ ከም እትድግፎም እንተፈሊጡ፡ ሓገዝ ናይ ምድላይ ተኽእሎኦም ዝለዓለ ክኸውን እዩ።"],        
 	 "context": [""]       
 	},	
 	{"tag": "ሓገዝ_ርኸብ",
-	 "patterns": ["ከመይ ጌረ ንባዕለይ በዓል ሞያ ጥዕና ኣእምሮ ይረክብ","ብኸመይ በዓል ሞያ ጥዕና ኣእምሮ ይረክብ?"],
+	 "patterns": ["ኸመይ ጌረ ንባዕለይ በዓል ሞያ ጥዕና ኣእምሮ ይረክብ","ብኸመይ በዓል ሞያ ጥዕና ኣእምሮ ይረክብ?"],
 	 "responses": ["ምስቲ ንስኻ ወይ ውላድካ ምስኡ እትሰርሕሉ በዓል ሞያ ምቹእ ስምዒት ምህላው ንዕውትነት እቲ ሕክምና ወሳኒ እዩ። ንጠለባትካ ዝበለጸ ዝሰማማዕ በዓል ሞያ ምርካብ መጽናዕቲ ከድልዮ ይኽእል እዩ። ኣብ ከባቢኻ ዝርከቡ ወሃብቲ ኣገልግሎት ብምድላይ ጀምር።"],
 	 "context": [""]
 	},
 	{"tag": "ናይ_ሕክምና_ኣማራጺታት",
-	 "patterns": ["What treatment options are available?","How can one recover?"],
-	 "responses": ["Just as there are different types of medications for physical illness, different treatment options are available for individuals with mental illness. Treatment works differently for different people. It is important to find what works best for you or your child."],
+	 "patterns": ["እንታይ ዓይነት ኣማራጺታት ሕክምና ኣለዉ?","ሓደ ሰብ ኸመይ ጌሩ ክሓዊ ይኽእል?"],
+	 "responses": ["ልክዕ ከምቲ ንኣካላዊ ሕማም ዝውዕሉ ዝተፈላለዩ ዓይነታት መድሃኒታት ዘለዉ፡ ንሕማም ኣእምሮ ዘለዎም ውልቀሰባት እውን ዝተፈላለየ ኣማራጺታት ሕክምና ኣሎ። ሕክምና ንዝተፈላለዩ ሰባት ዝተፈላለየ ስራሕ ይሰርሕ። ንዓኻ ወይ ንውላድካ ዝበለጸ ዝሰርሕ ምርካብ ኣገዳሲ እዩ።"],
 	 "context": [""]
 	},
 	{"tag": "ናይ_ሕክምና_ምኽርታት",
-	 "patterns": ["How to become involved in treatment?","What should I keep in mind if I begin treatment?"],
-	 "responses":["Since beginning treatment is a big step for individuals and families, it can be very overwhelming."],
+	 "patterns": ["ኸመይ ጌረ ኣብ ሕክምና ትሳተፍ?","ሕክምና እንተጀሚረ እንታይ ኣብ ኣእምሮይ ክሕዝ ኣለኒ?"],
+	 "responses":["ሕክምና ምጅማር ንውልቀሰባትን ስድራቤታትን ዓቢ ስጉምቲ ስለዝኾነ፡ ኣዝዩ ከቢድ ክኸውን ይኽእል።"],
 	 "context": [""]
 	},
-	{"tag": "ናይ_በዓል_ሞያ_ዓይነታት",
-	 "patterns": ["What is the difference between mental health professionals?","What are the different types of mental health professionals present?"],
-	 "responses":["There are many types of mental health professionals. The variety of providers and their services may be confusing. Each have various levels of education, training, and may have different areas of expertise. Finding the professional who best fits your needs may require some research."],
+	{"tag": "ናይ_ሰብ_ሞያ_ዓይነታት",
+	 "patterns": ["ኣብ መንጎ ሰብ ሞያ ጥዕና ኣእምሮ እንታይ ፍልልይ ኣሎ?","እቶም ዝተፈላለዩ ዓይነታት ሰብ ሞያ ጥዕና ኣእምሮ እንታይ እዮም?"],
+	 "responses":["ሰብ ሞያ ጥዕና ኣእምሮ ብዙሓት ዓይነታት ኣለው። ዝተፈላለዩ ወሃብቲ ኣገልግሎትን ኣገልግሎታቶምን ምድንጋር ክህልዎ ይኽእል እዩ። ነፍሲ ወከፎም ዝተፈላለየ ደረጃ ትምህርቲ፡ ስልጠና ዘለዎም፡ ዝተፈላለየ ዓውዲ ክእለት ክህልዎም ይኽእል እዩ። ንጠለባትካ ዝበለጸ ዝሰማማዕ በዓል ሞያ ምርካብ ገለ መጽናዕቲ ከድልዮ ይኽእል እዩ።"],
 	 "context": [""]
 	},
 	{"tag": "ትኽክለኛ_በዓል_ሞያ",
-	 "patterns": ["How can I find a mental health professional right myself?","How to find the right mental health professional?"],
-	 "responses":["Feeling comfortable with the professional you or your child is working with is critical to the success of your treatment. Finding the professional who best fits your needs may require some research."],
+	 "patterns": ["ኸመይ ጌረ ንባዕለይ በዓል ሞያ ጥዕና ኣእምሮ ክረክብ ይኽእል?","ብኸመይ ቅኑዕ በዓል ሞያ ጥዕና ኣእምሮ ይረክብ?"],
+	 "responses":["ምስቲ ንስኻ ወይ ውላድካ ምስኡ እትሰርሕሉ በዓል ሞያ ምቹው ስምዒት ምህላው ንዕውትነት ሕክምናኻ ወሳኒ እዩ። ንጠለባትካ ዝበለጸ ዝሰማማዕ በዓል ሞያ ምርካብ ገለ መጽናዕቲ ከድልዮ ይኽእል እዩ።"],
 	 "context": [""]
 	}
    ]
