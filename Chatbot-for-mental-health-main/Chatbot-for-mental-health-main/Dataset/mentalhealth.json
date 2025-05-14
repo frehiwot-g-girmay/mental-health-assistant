@@ -1,6 +1,6 @@
 {"intents": [
         {"tag": "ትርጉም",
-         "patterns": ["ሕማም ኣእምሮ ምህላው እንታይ ማለት እዩ?", "ሕማም ጥዕና ኣእምሮ እንታይ እዩ","Describe mentሕማም ጥዕና ኣእምሮ ግለጽ"],
+         "patterns": ["ሕማም ኣእምሮ ምህላው እንታይ ማለት እዩ?", "ሕማም ጥዕና ኣእምሮ እንታይ እዩ","ሕማም ጥዕና ኣእምሮ ግለጽ"],
          "responses": ["ሕማማት ኣእምሮ፡ ንሓሳብ ሰብ፡ ስምዒታቱ፡ ዝምድናኡን መዓልታዊ ኣሰራርሓኡን ዝዘርጉ ኩነታት ጥዕና እዮም።"],
          "context": [""]
         },
@@ -21,7 +21,7 @@
 	 "responses": ["ካብ ሕማም ኣእምሮ ክትሓዊ ከለኻ፡ ብኣግኡ ምልላይን ሕክምናን ኣዝዩ ኣገዳሲ እዩ። ኣብ ባህሪ ናይቲ ሕማም ተመርኲስካ ዝተፈላለዩ ውጽኢታውያን ሕክምናታት ኣለዉ። ንዝኾነ ዓይነት ሕክምና፡ እቲ ዝተጠቕዐ ሰብ ንጡፍ ክኸውንን ኣብ ናይ ገዛእ ርእሱ መስርሕ ሕውየት ምሉእ ብምሉእ ክዋፈርን ኣገዳሲ እዩ። ብዙሓት ሕማም ኣእምሮ ዘለዎም ሰባት ዝፍለጡን ዝሕከሙን ጽቡቕ ምላሽ ይህቡ፣ ዋላ እኳ ገሊኦም ምልክታት ክምለሱ ይኽእሉ እንተኾኑ። ኣብ ከምዚ ዝኣመሰለ ኩነታት እውን እንተኾነ፡ ብጥንቃቐ ምክትታልን ምሕደራን ናይቲ ጸገም፡ ገና ዕግበት ዘለዎን ኣፍራይን ህይወት ምንባር ምሉእ ብምሉእ ይከኣል እዩ።"],       
 	 "context": [""]        
 	},
-	{"tag": "steps",       
+	{"tag": "ቕድመ_ስዓብ ",       
 	 "patterns": ["I know someone who appears to have such symptoms?","What are the steps to be followed incase of symptoms"],        
 	 "responses": ["Although this website cannot substitute for professional advice, we encourage those with symptoms to talk to their friends and family members and seek the counsel of a mental health professional. The sooner the mental health condition is identified and treated, the sooner they can get on the path to recovery.If you know someone who is having problems, don't assume that the issue will resolve itself. Let them know that you care about them, and that there are treatment options available that will help them heal. Speak with a mental health professional or counselor if you think your friend or family member is experiencing the symptoms of a mental health condition. If the affected loved one knows that you support them, they will be more likely to seek out help."],        
 	 "context": [""]       
