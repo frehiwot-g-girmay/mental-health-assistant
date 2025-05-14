@@ -57,7 +57,7 @@ const generateResponse = (incomingChatLi) => {
 			messageElement
 			.classList.add("error");
 			messageElement
-			.textContent = "Oops! Something went wrong. Please try again!";
+			.textContent = "እዋእ! ገለ ነገር ተጋግዩ። በጃኹም ደጊምኩም ፈትኑ!";
 		})
 		.finally(() => chatbox.scrollTo(0, chatbox.scrollHeight));
 };
