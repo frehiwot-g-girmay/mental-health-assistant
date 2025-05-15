@@ -174,7 +174,7 @@ Question_ID,Questions,Answers
 3166337,ከመይ ጌረ ናይ ስነ-ኣእምሮ ክኢላ ክርኢ ይኽእል?,"ኣብ ኢትዮጵያ ምዝጉብ ክኢላ ስነ-ልቦና ንምርካብ፡ ናይ ኦንላይን ጸጋታትን ሞያዊ ትካላትን ክትጥቀም ትኽእል ኢኻ። ኣብ ከም complicated.life ዝኣመሰሉ መድረኻት ቴራፒስት ክትደሊ ትኽእል ኢኻ፡ ከምኡ’ውን ኣብ መርበብ ሓበሬታ ማሕበር ክኢላታት ስነ-ኣእምሮ ኢትዮጵያ (EPA) ወይ መዝገብ ኣባልነቶም ክትድህስስ ትኽእል ኢኻ። . ባዕልኻ ቆጸራ ክትሕዝ ትኽእል ኢኻ። ናብ ክኢላ ስነ-ኣእምሮ ክትከይድ ናይ ሓኪም ሪፈራል ኣየድልየካን’ዩ። ኣብ mekelle እንተሃሊኹም፡ ምስ ናይ HAQI Helpline ክትረኽብዎ ትኽእሉ ኢኹም። 
 7009409,ከመይ ጌረ ኣማኻሪ ክርኢ ይኽእል?,"ብሞያዊ ትካላቶም ኣቢልካ ናይ ኣማኸርቲ ማህደር ክትረክብ ትኽእል ኢኻ። 
  ምዝጉባት ክሊኒካዊ ኣማኸርቲ: ኣብ መርበብ ሓበሬታታት ሓያሎ ምሩጻት ወሃብቲ ኣገልግሎት ጥዕና ኣእምሮ ምብጻሕ። ኣሃ ሳይኮሎጂካል ሰርቪስስን ኣልታ ካውንሰሊንግን ኣብ ኢትዮጵያ ናይ ምኽሪ ኣገልግሎት ይህባ። ብተወሳኺ ማእከል ክንክን ጥዕና ኣእምሮ ሲቶታን ኣገልግሎት ጥዕና ኣእምሮ ሴረኒትን ምኽሪ ሓዊሱ ኣገልግሎት ጥዕና ኣእምሮ ይህቡ።  
- ንዝያዳ ፍሉያት ሰብ ሞያ ምኽሪ፡ ከም ሓዳርን ስድራቤትን ቴራፒስት፡ ኣብ ፈደረሽን ማሕበራት ምኽሪ ቴራፒስት ኣብ ብሪቲሽ ኮሎምብያ ርአ።
+ ንዝያዳ ፍሉያት ሰብ ሞያ ምኽሪ፡ ከም ሓዳርን ስድራቤትን ቴራፒስት፡ ገለ ፍሉጣት ወሃብቲ ኣገልግሎት ኣሃ ስነ-ኣእምሮኣዊ ኣገልግሎት፡ ቶክቶኣንጀልን ኣገልግሎት ጥዕና ኣእምሮ ሴረኒቲን ይርከብዎም።
  ባዕልኻ ቆጸራ ክትሕዝ ትኽእል ኢኻ። ናብ ኣማኻሪ ክትከይድ ናይ ሓኪም ሪፈራል ኣየድልየካን’ዩ።
  መብዛሕትኡ ግዜ ኣማኸርቲ ብ MSP ኣይሽፈኑን’ዮም፣ ስለዚ ንዋጋ ናይ’ቲ ቆጸራ ባዕልኻ ክትከፍሎ ክትግደድ ኢኻ። ናይ ስራሕ ቦታ ዝተናውሐ ናይ ጥዕና ሓገዛት፣ መደባት ሓገዝ ሰራሕተኛ (ስድራቤት)፣ ወይ ናይ ብሕቲ ውጥናት መድሕን ጥዕና ንገለ ወጻኢታት ንምሽፋን ክሕግዙ ይኽእሉ። ገለ ኣማኸርቲ ኣብ ኣታዊኻ ተመርኲሶም ስላይድ ስኬል ክህቡ ይኽእሉ እዮም። ፋይናንሳዊ ጸገም እንተ ኣጋጢሙካ፡ መዓስ ቆጸራ ከም እትሕዝ ክትሓትት ትኽእል ኢኻ። 
  ብዛዕባ ዝተሓተ ወጻኢታት ዘለዎም ኣማራጺታት ምኽሪ ንምርካብ ዝያዳ ፍለጥ ወይ ድማ ብኢመይል ኣቀማምጣኻ ሒዝካ ፍለጥ እሞ ናይ ሓበሬታን ሪፈራልን ጉጅለና ኣብ ማሕበረሰብካ እንታይ ዓይነት ኣማራጺታት ክህልዉ ከም ዝኽእሉ ክዕዘብ ይኽእል። 
@@ -188,34 +188,29 @@ Question_ID,Questions,Answers
  ኣብ ኢትዮጵያ ብኢንተርነት ዝግበር ደገፍ ጥዕና ኣእምሮ ስሕበት ይረክብ ኣሎ፣ ከም LSSYAን Serenity Mental Health Servicesን ዝኣመሰሉ መድረኻት ቨርቹዋል ቴራፒን ደገፍን ይህቡ ኣለዉ። እዚ ብፍላይ ኣብ ማሕበረሰብካ ጉጅለ እንተዘይብልካ ወይ’ውን ናብ ብኣካል ዝካየድ ጉጅለ ክትበጽሕ እንተጸጊምካ ጠቓሚ ክኸውን ይኽእል።
  ካብ ሓደ ናይ ደገፍ ጉጅለ ዝያዳ ክትጥቀም፡ ተመኩሮኻን ሓሳባትካን ከተካፍል እኹል ውሕስነት ክስምዓካ ኣለዎ፡ ንኻልኦት ክትድግፍ ድማ ምቹእነት ክስምዓካ ኣለዎ። ሓደ ፍሉይ ጉጅለ ንዓኻ ጽቡቕ ክሰማማዕ ይኽእል ድዩ ኣይክእልን ንምፍላጥ ኣቐዲምካ ነቲ ኣመሓዳሪ ወይ ኣዳላዊ ጉጅለ ምርካብ ሓጋዚ ክኸውን ይኽእል። ንናይ ደገፍ ጉጅለታት ክትግምግሞም ዝሕግዘኩም ዝርዝር መፈተሺ ኣለና-ሓዊሱ መዓስ ካብ ሓደ ክትገድፉ ግዜኡ ክኸውን ይኽእል እዩ። 
 ሓደ ሓደ ግዜ ጉጅለ በቃ ኣይሰርሓልካን’ዩ፡ እዚ’ውን ጸገም የብሉን። ምቹእነት እንተተሰሚዑካ፡ ምስቲ ኣመሓዳሪ ክትዛረብ ክትፍትን ትኽእል ኢኻ፡ ካልእ ክትፍትኖ እትኽእል ጉጅለ ክመኽሩኻ እንተኽኢሎም ክትፈልጥ ትኽእል ኢኻ።"
-1585622,Where can I find child and youth mental health services?,"To find help for a child or youth, you can: 
- Encourage your child to talk to a teacher or school counsellor 
- Talk to your family doctor or pediatrician, or go to a walk-in clinic 
- Contact your local Child & Youth Mental Health office on one of their walk-in days 
- Use Kelty Mental Health’s Help Finder Tool to find specific services and providers 
- Contact the Institute of Families for Child and Youth Mental Health’s Youth-in-Residence or Parent-in-Residence for guidance, information, and support. Youth-in-Residence and Parents-in-Residence are located around the province. If you don’t have one in your community, a Parent- or Youth-in-Residence at the Kelty Mental Health Resource Centre can help you by phone or email 
- Visit www.familysmart.ca for information and resources on child and youth mental health 
- For young people ages 12-24, visit foundrybc.ca to see if there is a Foundry Centre in your area. Foundry offers easy-to-access mental health care, physical health care, social services, and support out of one office."
-1833460,Where can older adults find help for mental health concerns?,"Mental health concerns are a serious concern at any age, and everyone deserves help and support. If you’re concerned about your mental health, you can: 
- Talk to your family doctor or go to a walk-in clinic 
- Call the Mental Health Support Line at 310-6789 (no area code) for information about services in your area 
- Find your local mental health centre or program at www.gov.bc.ca/mentalhealth (you may need a doctor’s referral to access some programs) 
+1585622,ኣገልግሎት ጥዕና ኣእምሮ ህጻናትን መንእሰያትን ኣበይ ክረክብ ይኽእል?,"ንሓደ ህጻን ወይ ንመንእሰይ ዝኸውን ሓገዝ ንምርካብ፡: 
+ ውላድካ ምስ መምህር ወይ ኣማኻሪ ቤት ትምህርቲ ክዛረብ ኣተባብዓዮ 
+ ምስ ሓኪም ስድራቤትካ ወይ ሓኪም ህጻናት ተዘራረብ፣ ወይ ድማ ናብ ሓደ ብእግሪ ዝኣቱ ክሊኒክ ኪድ 
+ ኣብ ሓደ ካብቲ ብእግሮም ዝኣትውሉ መዓልታት ኣብ ከባቢኹም ዝርከብ ቤት ጽሕፈት ጥዕና ኣእምሮ ህጻናትን መንእሰያትን ተወከሱ 
+ ፍሉያት ኣገልግሎታትን ወሃብቲ ኣገልግሎትን ንምርካብ Kelty Mental Health’s Help Finder Tool ተጠቐም 
+ ንመምርሒ፡ ሓበሬታን ደገፍን ምስ ኢንስቲትዩት ስድራቤታት ንጥዕና ኣእምሮ ህጻናትን መንእሰያትን ንመንእሰያት-ኣብ-መንበሪ ወይ ወላዲ-ኣብ-መንበሪ ተወከሱ። መንእሰያት-ኣብ-መንበሪን ወለዲ-ኣብ-መንበሪን ኣብ ዙርያ እቲ ኣውራጃ ይርከቡ። ኣብ ማሕበረሰብካ እንተዘይብልካ፡ ኣብ ማእከል ጸጋታት ጥዕና ኣእምሮ ኬልቲ ዝርከብ ወላዲ ወይ መንእሰይ ኣብ መንበሪ ገዛ ብተሌፎን ወይ ብኢመይል ክሕግዘካ ይኽእል። 
+ ብዛዕባ ጥዕና ኣእምሮ ህጻናትን መንእሰያትን ሓበሬታን ጸጋታትን ንምርካብ ኣብ www.familysmart.ca ተወከሱ
+ካብ 12-24 ዓመት ዝዕድሚኦም መንእሰያት፡ ኣብ ከባቢኹም ማእከል ፋውንድሪ እንተሃልዩ ንምርኣይ foundrybc.ca ተወከሱ። ፋውንድሪ ብቐሊሉ ክትረኽቦ እትኽእል ክንክን ጥዕና ኣእምሮ፡ ክንክን ኣካላዊ ጥዕና፡ ማሕበራዊ ኣገልግሎታትን ካብ ሓደ ቤት ጽሕፈት ወጻኢ ደገፍን ይህብ።"
+1833460,ኣረጋውያን ንኣእምሮኣዊ ጥዕና ስክፍታታት ኣበይ ሓገዝ ክረኽቡ ይኽእሉ?,"ስክፍታታት ጥዕና ኣእምሮ ኣብ ዝኾነ ዕድመ ከቢድ ስክፍታ’ዩ፣ ኩሉ ሰብ ድማ ሓገዝን ደገፍን ይግብኦ። ብዛዕባ ጥዕና ኣእምሮኻ ትሻቐል እንተኾንካ፣ ክትክእል ትኽእል ኢኻ፤ 
+ ምስ ሓኪም ስድራቤትካ ተዘራረብ ወይ ናብ ሓደ ብእግሪ ዝኣቱ ክሊኒክ ኪድ 
+ ኣብ ኢትዮጵያ ንደገፍ ጥዕና ኣእምሮ ንቅዱስ ኣማኑኤል ስፔሻላይዝድ ሆስፒታል ወይ ድማ ማሕበር ተጠቀምቲ ኣገልግሎት ጥዕና ኣእምሮ (MHSUA) ክትረኽብዎ ትኽእሉ ኢኹም። ናይ ቅዱስ ኣማኑኤል ቁጽሪ ርክብ +251 11-2757699 ኮይኑ፡ MHSUA ድማ ብስልኪ +251 945 56565 ክትረኽብዎ ትኽእሉ ኢኹም።
  Find your local Canadian Mental Health Association branch at www.cmha.bc.ca and ask for information about local services 
- Contact a local senior’s support organization or group and ask for advice. You can search for organizations at www.bc211.ca 
- For general information about senior’s mental health: 
- Find resources from the Canadian Coalition for Seniors' Mental Health at www.ccsmh.ca 
- Find info sheets in the Seniors and Depression Series at www.heretohelp.bc.ca/factsheet/seniors-and-depression-series 
- If you are concerned about a loved one: 
- Be honest about your concerns, like changes you’ve noticed or problems that have come up 
- Give your loved one a chance to talk about their perspectives. They may have a different take on the problem or have different priorities in their health care 
- Be patient—it will probably take more than one conversation 
- Whenever possible, aim for cooperation. Focus on finding an action or solution that everyone can agree on 
- Remember that asking for help is hard for many of us, and it can be even harder as people’s roles and abilities change. If your loved one isn’t willing to talk about their experiences with you right away, offer alternatives like the BC Mental Health Support Line (310-6789—no area code needed), the Seniors Distress Line (604-872-1234) or a local seniors support organization (search for organizations at www.bc211.ca) 
- Seek support to manage your expectations and your own well-being. It can be very stressful to see a loved one experience health problems. But adults who can care for themselves and aren’t at risk of harm are free to make their own choices—and that includes refusing help"
-6981545,Where can I find self-help materials for depression?,"Self-help resources are not a substitute for diagnosis or treatment. If you have concerns about low mood, it’s best to talk to your doctor first and rule out physical causes for your symptoms. However, once you’ve checked in with your doctor, self-help materials can be a great way to learn more about depression and practice different skills at your own pace or in between treatment sessions. Here are some resources to check out. 
- The Antidepressant Skills Workbook was created by two BC psychologists. You’ll learn more about depression, learn and practice different skills to help improve your mood, and learn how healthy changes in other parts of your life can impact your mood. They also have similar workbooks for specific groups: 
- Dealing With Depression: Antidepressant Skills for Teens 
- A workbook for people who experience problems with depression at work called Antidepressant Skills at Work: Dealing with Mood Problems in the Workplace 
+ ኣብ ተኸታታሊ መደብ ኣረጋውያንን ጭንቀትን ሓበሬታ ወረቓቕቲ ኣብ www.heretohelp.bc.ca/factsheet/seniors-and-depression-series ርኸቡ።
+ ብዛዕባ እትፈትዎ ሰብ ትሻቐል እንተ ዄንካ፤
+ ብዛዕባ ስክፍታታትካ ብቕንዕና ተዛረብ፣ ከም ዘስተብሃልካዮ ለውጢ ወይ ዝመጸ ጸገማት።
+ ንእትፈትዎ ሰብ ብዛዕባ ኣረኣእያታቱ ክዛረብ ዕድል ሃቦ። ነቲ ጸገም ዝተፈላለየ ኣረኣእያ ክህልዎም ወይ ኣብ ክንክን ጥዕናኦም ዝተፈላለየ ቀዳምነት ክህልዎም ይኽእል። 
+ ዓቕሊ ግበር—ምናልባት ካብ ሓደ ንላዕሊ ዕላል ክወስድ እዩ።
+ ብዝተኻእለ መጠን ምትሕብባር ዕላማ ግበር። ኩሉ ሰብ ዝሰማማዓሉ ተግባር ወይ ፍታሕ ኣብ ምርካብ ኣተኩር። 
+ ትጽቢታትካን ናይ ገዛእ ርእስኻ ጽቡቕ ሂወትካን ንምምሕዳር ደገፍ ድለ። ንእትፈትዎ ሰብ ናይ ጥዕና ጸገማት ከጋጥሞ ምርኣይ ኣዝዩ ውጥረት ክፈጥር ይኽእል እዩ። ንነብሶም ክከናኸኑ ዝኽእሉን ንጉድኣት ኣብ ሓደጋ ዘይርከቡን ዓበይቲ ሰባት ግን ናይ ገዛእ ርእሶም ምርጫ ክገብሩ ናጻ’ዮም-እዚ ድማ ሓገዝ ምእባዩ የጠቓልል"
+6981545,ንጭንቀት ዝኸውን ርእሰ-ሓገዝ ዝኸውን ናውቲ ኣበይ ክረክብ ይኽእል?,"ንርእሰ-ሓገዝ ዝሕግዙ ጸጋታት ንመርመራ ወይ ሕክምና መተካእታ ኣይኮኑን። ብዛዕባ ትሑት ስሚዒት ስክፍታታት እንተሃልዩካ፡ መጀመርታ ምስ ሓኪምካ ምዝርራብን ምልክታትካ ኣካላዊ ጠንቅታት ምውጋድን ዝበለጸ’ዩ። ይኹን’ምበር፡ ምስ ሓኪምካ ምስ ኣረጋገጽካ፡ ርእሰ-ሓገዝ ንዋት ብዛዕባ ጭንቀት ዝያዳ ንምፍላጥን ብናይ ገዛእ ርእስኻ ናህሪ ወይ ኣብ መንጎ ሕክምና ዝተፈላለየ ክእለት ንምልምማድን ብሉጽ መገዲ ክኸውን ይኽእል። ክፍለ ግዜታት ገለ ክትዕዘቡ ዘለኩም ጸጋታት ኣብዚ ኣለዉ።
+ መጽሓፍ ስራሕ ክእለት ጸረ-ጭንቀት ብኽልተ ናይ ቢሲ ስነ-ኣእምሮ ክኢላታት ዝተፈጥረ እዩ። ብዛዕባ ጭንቀት ዝያዳ ክትመሃር ኢኻ፣ ስሚዒትካ ንምምሕያሽ ዝሕግዙ ዝተፈላለዩ ክእለታት ክትመሃርን ክትለማመድን ኢኻ፣ ከምኡ’ውን ኣብ ካልእ ክፋላት ህይወትካ ዝመጽእ ጥዑይ ለውጢ ንመንፈስካ ብኸመይ ክጸልዎ ከም ዝኽእል ክትመሃር ኢኻ። ንፍሉያት ጉጅለታት ዝኸውን ተመሳሳሊ መጽሓፍቲ ስራሕ እውን ኣለዎም፤
+ ምስ ጭንቀት ምግጣም፡ ንመንእሰያት ዝኸውን ጸረ-ጭንቀት ክእለት።
+ ኣብ ስራሕ ጸገም ጭንቀት ንዘጋጥሞም ሰባት ዝኸውን መጽሓፍ ስራሕ፡ ጸረ-ጭንቀት ክእለት ኣብ ስራሕ፡ ምግጣም ጸገማት ስሚዒት ኣብ ስራሕ ቦታ
  A workbook for expecting or new moms called Managing Depression: A Self-help Skills Resource for Women Living With Depression During Pregnancy, After Delivery and Beyond 
  A workbook for people who experience health problems called Positive Coping with Health Conditions: A Self-Care Workbook 
  On the HeretoHelp site, our Managing Depression series offers three info sheets: Dealing with a Diagnosis of Depression, Working With Your Doctor for Depression, and Preventing Relapse of Depression. The series helps you be an active partner in your health care, build healthy coping skills and self-management strategies, and more. 
