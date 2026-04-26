@@ -1,0 +1,156 @@
+{
+  "brand": {
+    "name": "Hiwot"
+  },
+  "nav": {
+    "services": "Tajaajiloota",
+    "professionals": "Ogeessota Fayyaa Sammuu",
+    "blog": "Blorgii",
+    "booking": "Beellama Qabachuu",
+    "emergency": "Saffisaan: 952 | 24/7 Bilbilaa"
+  },
+  "hero": {
+    "badge": "Deeggarsa Fayyaa Sammuu Amanamaa",
+    "title": "Sammuu Keessaniif Nagaa Fidna",
+    "description": "Wiirtuu Fayyaa Sammuu Hiwot keessatti, fayyummaa keessaniif dursa kennina. Itoophiyaa keessatti ogeessota filatamoo fi malawwan yaalaa ammayyaa argattu.",
+    "cta_booking": "Amma Beellamadhu",
+    "cta_chat": "Gargaaraa waliin dubbadhu",
+    "stats": "Dhukkubsattoota 5,000+ ol yaalamaniiru",
+    "satisfaction": "Quufa Dhukkubsattootaa",
+    "study": "Qo'annoo bara 2023 irratti hundaa'ee"
+  },
+  "services": {
+    "badge": "Tajaajiloota Keenya",
+    "title": "Akkaamitti isiniin gargaaruu dandeenya?",
+    "description": "Namni hundi fedhii dhuunfaa qaba. Tajaajila fayyaa sammuu qulqullina qabu kan isiniif mijaau ni dhiyeessina.",
+    "individual": {
+      "title": "Gorsa Dhuunfaa",
+      "desc": "Yaaddoo, dhiphina fi dhimmoota dhuunfaa biroof gorsa ogeessaa."
+    },
+    "couples": {
+      "title": "Gorsa Hiriyoota Gaa'ilaa",
+      "desc": "Rakkoolee walitti dhufeenya keessaa jiran furuufi walitti dhufeenya cimsuuf kan gargaaru."
+    },
+    "child": {
+      "title": "Saayikoloojii Ijoollee",
+      "desc": "Ijoollee fi dargaggootaaf deeggarsa fayyaa sammuu fi hordoffii addaa."
+    },
+    "teletherapy": {
+      "title": "Teleteeraappii",
+      "desc": "Mana keessan utuu hin bahiin viidiyoodhaan ogeessota keenya waliin wal argattu."
+    },
+    "group": {
+      "title": "Gorsa Garee",
+      "desc": "Namoota muuxannoo walfakkaataa qaban waliin marii waliinii taasifamu."
+    },
+    "addiction": {
+      "title": "Araada irraa deebiuu",
+      "desc": "Araada adda addaa irraa bilisa bahuuf deeggarsa ogeessaa fi hordoffii taasifamu."
+    },
+    "read_more": "Itti fufii dubbisi"
+  },
+  "professionals": {
+    "badge": "Ogeessota Fayyaa Sammuu",
+    "title": "Ogeessota Fayyaa Sammuu Filatamoo Waliin Wal-argaa",
+    "description": "Ogeessonni keenya hundi sirriitti kan filatamanii fi muuxannoo qabanidha.",
+    "experience": "Muuxannoo",
+    "patients": "Dhukkubsattoota",
+    "message": "Ergaa",
+    "book": "Beellama",
+    "martha": "Dr. Maartaa Ababa",
+    "martha_specialty": "Saayikoloojisti Kilinikaala Ol'aanaa",
+    "dawit": "Dr. Daawit Tafarraa",
+    "dawit_specialty": "Saayikiyaatristii fi Gorsaa Araadaa",
+    "kirubel": "Dr. Kiruubel Zawduu",
+    "kirubel_specialty": "Ogeessa Saayikoloojii Ijoollee"
+  },
+  "booking": {
+    "title": "Beellama Qabachuu",
+    "subtitle": "Sa'aatii fi guyyaa isiniif mijaau filadhaa.",
+    "service_type": "Gosa Tajaajilaa",
+    "physical": "Qaaman",
+    "virtual": "Viidiyoodhaan",
+    "date": "Guyyaa",
+    "time": "Sa'aatii",
+    "select_time": "Sa'aatii filadhaa",
+    "full_name": "Maqaa Guutuu",
+    "name_placeholder": "Maqaa keessan asitti barreessaa",
+    "email": "Iimeelii",
+    "phone": "Lakkoofsa Bilbilaa",
+    "reason": "Ibsa (Yoo barbaachise)",
+    "reason_placeholder": "Waa'ee fayyaa keessanii gabaabinaan ibsaa...",
+    "back": "Gara duubaa",
+    "next": "Itti fufi",
+    "confirm": "Beellama Mirkaneessi",
+    "success": "Beellamni keessan milkaa'inaan qabameera! Dhiyootti isiniin quunnamna.",
+    "success_desc": "Ergaan mirkaneessaa iimeelii fi bilbila keessaniin ni ergama."
+  },
+  "chatbot": {
+    "name": "Hiwot AI Assistant",
+    "online": "Hojii irra (Online)",
+    "input_placeholder": "Ergaa keessan asitti barreessaa...",
+    "initial_msg": "Akkam! Ani gargaaraa fayyaa Hiwotidha. Akkaamitti isin gargaaruu danda'a?",
+    "suggestions": {
+      "anxiety": "Waa'ee yaaddoo odeeffannoo barbaada",
+      "booking": "Akkaamitti beellama qabachuu danda'a?",
+      "professionals": "Ogeessota Fayyaa Sammuu",
+      "emergency": "Saffisaan maal gochuun qaba?"
+    },
+    "responses": {
+      "anxiety": "Yaaddoon waan baramaadha. Hafuura gadi fageenyaan fudhachuu fi ogeessa waliin dubbachuun ni gargaara.",
+      "booking": "Beellama qabachuuf, furtuu 'Beellama Qabachuu' jedhu gubbaa jiru fayyadamaa.",
+      "professionals": "Wiirtuu keenya keessa ogeessota saayikoloojii muuxannoo qaban qabna.",
+      "emergency": "Dhimma saffisaaf, maaloo 952 irratti bilbilaa.",
+      "unknown": "Dhiifama, naaf hin galle. Maaloo jechoota muraasaan ibsaa."
+    }
+  },
+  "health_tips": {
+    "breathing": "Hafuura Gadi Fageenyaan Fudhachuu - Guyyaatti daqiiqaa 5f hafuura gadi fageenyaan fudhachuun dhiphina hir'isuuf gargaara.",
+    "sunlight": "Ifa Aduu - Ifa aduu gahaa argachuun hormoonii gammachuu dabaluu fi hirriba gaariif gargaara.",
+    "sleep": "Sa'aatii Hirribaa - Guyyaa hunda sa'aatii walfakkaataatti rafuu fi dammaquun fayyaa sammuutiif murteessaadha."
+  },
+  "insurance": {
+    "title": "Michoota Keenya Inshuraansii",
+    "description": "Inshuraansii kanaa fi kan biroo ni simanna. Inshuraansiin keessan hojjechuu isaa mirkaneeffachuuf maaloo nuuf bilbilaa."
+  },
+  "testimonials": {
+    "badge": "Ragaa Dhukkubsattootaa",
+    "title": "Dhukkubsattoonni keenya waa'ee keenya maal jedhu?",
+    "saba_name": "Saabaa Ababa",
+    "saba_text": "Deeggarsi ani wiirtuu kanaa argadhe jireenya koo guutummaatti jijjiireera. Ogeessonni baay'ee namaaf yaaduu fi hojii isaaniitiif of kennanidha.",
+    "jonas_name": "Yoonaas Taaddasaa",
+    "jonas_text": "Tajaajilli viidiyoodhaan kennamu hojii koo utuu hin kukkutin yaala koo akkan hordofu na gargaareera. Baay'ee galatoomaa!",
+    "leyu_name": "Liyyuu Asaffaa",
+    "leyu_text": "Marii garee taasifamuun namoonni biroos rakkoo koo walfakkaataa akka qaban akkan beeku na taasiseera, kophummaan natti hin dhagahamu.",
+    "role": "Dhukkubsataa"
+  },
+  "blog": {
+    "badge": "Blorgii fi Odeeffannoo Fayyaa",
+    "title": "Beekumsa Keessan Bal'ifadhaa",
+    "view_all": "Barreeffamoota Hunda Ilaali",
+    "read_more": "Dubbisuu Itti Fufi",
+    "post1": {
+      "title": "Mallattoolee Yaaddoo fi Furmaata Isaa",
+      "excerpt": "Dhiibbaa yaaddoon jireenya keenya guyyaa guyyaa irratti fidu akkamitti hir'isuu dandeenya?",
+      "category": "Fayyaa",
+      "date": "Onkololeessa 12, 2016"
+    },
+    "post2": {
+      "title": "Faayidaa Hirriba Gahaa",
+      "excerpt": "Hirribni gaariin boqonnaa sammuu fi xiyyeeffannoo fooyyessuuf akkamitti akka gargaaru baradhaa.",
+      "category": "Haala Jireenyaa",
+      "date": "Onkololeessa 15, 2016"
+    },
+    "post3": {
+      "title": "Akkamitti Yaada Baay'isuu (Overthinking) Dhaabna?",
+      "excerpt": "Yaada tokko irratti yeroo dheeraaf yaaduun fayyaa sammuutiif miidhaa qabaachuu danda'a.",
+      "category": "Gorsa",
+      "date": "Onkololeessa 18, 2016"
+    }
+  },
+  "footer": {
+    "description": "Wiirtuu ogeessotaa fayyaa sammuu fi fayyummaa fooyya'aaf hojjetu.",
+    "contact": "Nu Quunnamaa",
+    "emergency": "Saffisaan: 952"
+  }
+}

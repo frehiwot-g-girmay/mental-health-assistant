@@ -1,0 +1,189 @@
+{
+  "brand": {
+    "name": "Hiwot"
+  },
+  "nav": {
+    "emergency": "Emergency: 952 (24/7)",
+    "services": "Services",
+    "professionals": "Mental Health Professionals",
+    "blog": "Blog",
+    "booking": "Book Appointment",
+    "apply": "Apply as Practitioner"
+  },
+  "hero": {
+    "badge": "Trusted Mental Health Care",
+    "title": "Your Journey to Mental Wellness Starts Here",
+    "description": "Professional support for anxiety, depression, and personal growth. Specialized care tailored to your needs.",
+    "cta_booking": "Book a Session",
+    "cta_chat": "Chat with AI Assistant",
+    "stats": "10,000+ Happy Patients",
+    "satisfaction": "98% Satisfaction",
+    "study": "Based on latest clinic studies"
+  },
+  "services": {
+    "badge": "Our Services",
+    "title": "Comprehensive Care",
+    "description": "We offer a wide range of mental health services to support your emotional and psychological well-being.",
+    "individual": {
+      "title": "Individual Therapy",
+      "desc": "One-on-one sessions focused on personal growth and overcoming life's challenges."
+    },
+    "couples": {
+      "title": "Couples Counseling",
+      "desc": "Strengthen your relationship and improve communication with expert guidance."
+    },
+    "child": {
+      "title": "Child & Adolescent",
+      "desc": "Specialized support for young minds navigating developmental and emotional hurdles."
+    },
+    "teletherapy": {
+      "title": "Teletherapy",
+      "desc": "Convenient online sessions from the comfort and privacy of your home."
+    },
+    "group": {
+      "title": "Group Support",
+      "desc": "Connect with others facing similar challenges in a safe, moderated environment."
+    },
+    "addiction": {
+      "title": "Addiction Recovery",
+      "desc": "Professional guidance and support for overcoming substance and behavioral dependencies."
+    },
+    "read_more": "Read More"
+  },
+  "professionals": {
+    "badge": "Mental Health Professionals",
+    "title": "Meet Our Mental Health Professionals",
+    "description": "Our team of certified psychiatrists and psychologists are here to support your mental health journey.",
+    "martha": "Dr. Martha Bekele",
+    "martha_specialty": "Clinical Psychologist",
+    "dawit": "Dr. Dawit Solomon",
+    "dawit_specialty": "Psychiatrist",
+    "kirubel": "Dr. Kirubel Tadesse",
+    "kirubel_specialty": "Counseling Specialist",
+    "experience": "Years Experience",
+    "patients": "Patients Helped",
+    "message": "Message",
+    "book": "Book Now",
+    "hourly_rate": "Hourly Rate",
+    "per_hour": "/ hr"
+  },
+  "practitioner": {
+    "badge": "Join Our Team",
+    "title": "Apply as a Practitioner",
+    "description": "Are you a certified mental health professional? Join our network and help transform lives across Ethiopia.",
+    "cta": "Submit Application",
+    "benefits_title": "Why Work With Us?",
+    "benefit1": "Flexible Working Hours",
+    "benefit1_desc": "Set your own schedule and manage appointments with ease.",
+    "benefit2": "Digital Practice Tools",
+    "benefit2_desc": "Access advanced tools for better patient management.",
+    "benefit3": "Professional Community",
+    "benefit3_desc": "Join a community of the best mental health experts in the country.",
+    "form": {
+      "title": "Practitioner Application Form",
+      "fullName": "Full Name",
+      "fullNamePlaceholder": "Abebe Kebede",
+      "email": "Email Address",
+      "emailPlaceholder": "abebe@example.com",
+      "specialty": "Specialty / Qualification",
+      "specialtyPlaceholder": "e.g. Psychiatrist",
+      "experience": "Years of Experience",
+      "experiencePlaceholder": "5",
+      "hourlyRate": "Hourly Consultation Rate (ETB)",
+      "hourlyRatePlaceholder": "800",
+      "message": "Why do you want to join Hiwot?",
+      "messagePlaceholder": "Tell us a bit about yourself...",
+      "success": "Application Received!",
+      "success_desc": "Thank you for your interest. Our clinical director will review your profile and contact you soon."
+    }
+  },
+  "booking": {
+    "title": "Book Your Session",
+    "subtitle": "Fill out the form below and we'll confirm your appointment shortly.",
+    "success": "Booking Successful!",
+    "success_desc": "We have received your request and will contact you shortly.",
+    "service_type": "Service Type",
+    "physical": "In-person",
+    "virtual": "Virtual",
+    "date": "Preferred Date",
+    "time": "Preferred Time",
+    "select_time": "Select a time",
+    "full_name": "Full Name",
+    "name_placeholder": "Enter your full name",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "reason": "Reason for visit",
+    "reason_placeholder": "Tell us briefly how we can help",
+    "back": "Back",
+    "next": "Next Step",
+    "confirm": "Confirm Booking"
+  },
+  "chatbot": {
+    "name": "Hiwot AI Assistant",
+    "online": "Online Now",
+    "initial_msg": "Hello! I'm Hiwot AI. How can I support your mental well-being today?",
+    "input_placeholder": "Type your message...",
+    "suggestions": {
+      "anxiety": "Coping with anxiety",
+      "booking": "How to book?",
+      "professionals": "Mental Health Professionals",
+      "emergency": "Emergency help"
+    },
+    "responses": {
+      "anxiety": "Anxiety can be tough. Try deep breathing: inhale for 4, hold for 4, exhale for 4. Would you like to speak with a professional?",
+      "booking": "You can book a session directly through our booking form on the website or call us at 952.",
+      "professionals": "We have a team of expert psychologists and psychiatrists. You can see their profiles in the 'Mental Health Professionals' section.",
+      "emergency": "If you're in immediate danger, please call our emergency line 952 or visit the nearest hospital.",
+      "unknown": "I'm here to listen. Could you please provide more details so I can help you better?"
+    }
+  },
+  "health_tips": {
+    "breathing": "Deep breathing reduces stress instantly.",
+    "sunlight": "15 mins of sunlight boosts your mood.",
+    "sleep": "Quality sleep is vital for mental clarity."
+  },
+  "footer": {
+    "description": "Leading mental healthcare provider in Ethiopia, dedicated to your psychological well-being and growth.",
+    "contact": "Contact Us",
+    "emergency": "Emergency (24/7): 952"
+  },
+  "insurance": {
+    "title": "Our Insurance Partners",
+    "description": "We accept these and many other insurance types. Please call us to verify if your insurance is supported."
+  },
+  "testimonials": {
+    "badge": "Patient Testimonials",
+    "title": "What Our Patients Say",
+    "saba_name": "Saba Abebe",
+    "saba_text": "The support I received at this center completely changed my life. The professionals are very caring and dedicated.",
+    "jonas_name": "Jonas Tadesse",
+    "jonas_text": "The video consultation sessions helped me follow my treatment without disrupting my work. Thank you very much!",
+    "leyu_name": "Leyu Assefa",
+    "leyu_text": "The group discussions made me realize that others have similar problems as me and made me not feel alone.",
+    "role": "Patient"
+  },
+  "blog": {
+    "badge": "Blog & Health Information",
+    "title": "Expand Your Knowledge",
+    "view_all": "View All Posts",
+    "read_more": "Continue Reading",
+    "post1": {
+      "title": "Signs of Anxiety and Their Solutions",
+      "excerpt": "How can we reduce the impact of anxiety on our daily lives?",
+      "category": "Health",
+      "date": "Oct 12, 2024"
+    },
+    "post2": {
+      "title": "The Importance of Deep Sleep for Mental Health",
+      "excerpt": "Learn how good sleep helps us have mental rest and focus.",
+      "category": "Lifestyle",
+      "date": "Oct 15, 2024"
+    },
+    "post3": {
+      "title": "How to Stop Overthinking?",
+      "excerpt": "Thinking too much about one thought for a long time can be harmful to mental health.",
+      "category": "Advice",
+      "date": "Oct 18, 2024"
+    }
+  }
+}
